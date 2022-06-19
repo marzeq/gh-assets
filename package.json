@@ -1,7 +1,7 @@
 {
     "name": "gh-assets",
     "description": "A simple CLI tool to download release assets from GitHub",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "marzeq",
     "bin": "dist/index.js",
     "license": "GPL-3.0+",

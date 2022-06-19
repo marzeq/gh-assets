@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import fs from "node:fs/promises"
 import { existsSync } from "node:fs"
 import fetch, { type Response } from "node-fetch"
