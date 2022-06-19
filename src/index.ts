@@ -26,7 +26,7 @@ if (process.argv.length > 2) {
 if (project == "--help" || project == "-h") {
     console.log(dedent`
         Usage:
-            github-release-downloader [project?]
+            gh-assets [project?]
         
         If no project is specified, the user will be prompted to enter one.
     `)

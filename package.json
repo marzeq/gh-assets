@@ -1,6 +1,6 @@
 {
-    "name": "github-release-downloader",
-    "description": "A simple CLI tool to download releases from GitHub",
+    "name": "gh-assets",
+    "description": "A simple CLI tool to download release assets from GitHub",
     "version": "1.0.0",
     "author": "marzeq",
     "bin": "dist/index.js",
